@@ -23,5 +23,3 @@ Cloud Security | Open Source Security Tools | Threat Hunting
 saljhf
 khsdf
 ]lhjsf
-lk;dsf
-
