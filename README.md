@@ -17,13 +17,3 @@ Cloud Security | Open Source Security Tools | Threat Hunting
 
 ⚡ Fun Fact: Love solving CTFs & reverse-engineering binaries..!  
 
-
-
-
-
-
-
-
-
-
-
