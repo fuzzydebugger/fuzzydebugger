@@ -16,32 +16,3 @@ Cloud Security | Open Source Security Tools | Threat Hunting
 [GitHub](https://github.com/fuzzydebugger) | [LinkedIn](www.linkedin.com/in/ameya-kannurkar) 
 
 ⚡ Fun Fact: Love solving CTFs & reverse-engineering binaries..!  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
